@@ -3,10 +3,10 @@
 ### TASK 1
 |Metrics|Results|
 |---|---|
-|Accuracy|0.700000|
-|Recall|0.666667|
-|Precision|0.800000|
-|F1 Score|0.727273|
+|Accuracy|0.800000|
+|Recall|0.833333|
+|Precision|0.833333|
+|F1 Score|0.833333|
 
 ### TASK 2
 |Metrics|Results|
